@@ -1,3 +1,3 @@
 def square_array(array)
-  # your code here
+  array[element] * 2
 end
